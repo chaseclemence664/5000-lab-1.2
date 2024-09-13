@@ -1,0 +1,71 @@
+---
+title: "Chase Clemence's Website"
+author: "Chase Clemence"
+date: '2024-09-12'
+bibliography: reference.bib
+---
+
+# Table of Contents
+1. [Early Life]
+2. [Education]
+3. [Hobbies]
+4. [Future Goals]
+
+# All About Chase Clemence
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque facilisis enim tellus, vel porta mauris tincidunt eu. Aenean imperdiet, tortor nec aliquam convallis, felis elit consequat diam, vitae posuere nibh ipsum quis eros. Vivamus vel lorem gravida, pretium ipsum at, dignissim nibh. Nunc id dapibus arcu. In ac mauris eu ligula luctus molestie faucibus in magna. Nullam congue lobortis ex imperdiet ullamcorper. Aliquam suscipit posuere feugiat. Etiam luctus libero eget felis viverra, eu blandit mauris porttitor. Integer sit amet dolor a nisl dapibus iaculis eu quis turpis. Nam nec dolor et ex faucibus venenatis. Nullam nec varius erat. Mauris metus tortor, rutrum a pellentesque ac, tempus sit amet lectus. Vivamus hendrerit, nisl eget aliquam iaculis, orci ante egestas sapien, vitae luctus purus risus ac mauris. Nam maximus odio malesuada massa efficitur accumsan.
+
+> The only place success comes before work is in the dictionary. - Vidal Sassoon
+
+![Big Me](./images/headshot.jpg)
+
+## Early Life
+
+![Little Me](./images/babyphoto.jpg)
+
+## Education 
+
+| Place | Description |
+| ----------- | ----------- |
+| Greensburg Salem School District | Small school in Greensburg, Pennsylvania |
+| United States Air Force Acadmey | Service Academy in Colorado Springs, Colorado |
+
+## Hobbies
+
+- Exercise (Running/Lifting/Swimming)[^1]
+- Going to concerts
+- Reading
+
+## Future Goals
+
+### Air Force Career
+
+
+
+### After the Air Force
+
+
+### Math Equations (just because)
+
+${Mean Discrete}\ \mu=E(X)= \sumP_{i}x_{i}$
+$${Mean Continuous}\ \mu=\int xf(x) dx$$
+
+### Check out this video!
+
+[![Some Motivation - Click the Photo!](./images/motivation.jpg)](https://www.youtube.com/watch?v=Qi7rJFLWhyA)
+
+[^1]: Training for an Ironman!
+
+### Mermaid Diagram (example)
+
+```{mermaid}
+graph TD;
+     A-->B;
+     A-->C;
+     B-->D;
+     C-->D;
+```
+
+### References (example)
+1. [@bolyen2019reproducible]
+2. [@agarwal2014big]

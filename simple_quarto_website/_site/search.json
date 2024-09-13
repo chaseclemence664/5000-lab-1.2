@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "slides/slides.html#background",
+    "href": "slides/slides.html#background",
+    "title": "All About Me",
+    "section": "Background",
+    "text": "Background\n\nPittsburgh, PA\nMom, Dad, and Younger Brother\n4 Dogs"
+  },
+  {
+    "objectID": "slides/slides.html#education",
+    "href": "slides/slides.html#education",
+    "title": "All About Me",
+    "section": "Education",
+    "text": "Education\n\nGreensburg Salem School District\nUnited States Air Force Academy"
+  },
+  {
+    "objectID": "slides/slides.html#hobbies",
+    "href": "slides/slides.html#hobbies",
+    "title": "All About Me",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nLifting\nRunning\nSwimming\nReading\nSkydiving"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "All About Me",
+    "section": "References",
+    "text": "References\n\n(Bolyen et al. 2019)\n(Agarwal and Dhar 2014)"
+  },
+  {
+    "objectID": "slides/slides.html#plot",
+    "href": "slides/slides.html#plot",
+    "title": "All About Me",
+    "section": "Plot",
+    "text": "Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgarwal, Ritu, and Vasant Dhar. 2014. “Big Data, Data Science, and Analytics: The Opportunity and Challenge for IS Research.” Information Systems Research. INFORMS.\n\n\nBolyen, Evan, Jai Ram Rideout, Matthew R Dillon, Nicholas A Bokulich, Christian C Abnet, Gabriel A Al-Ghalith, Harriet Alexander, et al. 2019. “Reproducible, Interactive, Scalable and Extensible Microbiome Data Science Using QIIME 2.” Nature Biotechnology 37 (8): 852–57."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#header-2---slightly-smaller-text",
+    "href": "about.html#header-2---slightly-smaller-text",
+    "title": "About",
+    "section": "Header 2 - Slightly Smaller Text",
+    "text": "Header 2 - Slightly Smaller Text\nSed eu interdum ligula, eget semper justo. Mauris vehicula faucibus tortor a condimentum. Nam posuere fringilla metus vitae iaculis. Aenean eget porta lacus, sed porta velit. Fusce in mattis nisl, sit amet aliquam lorem. Aenean pretium magna dui, at egestas nibh aliquet eu. Curabitur finibus consectetur egestas. Sed pulvinar non urna a ornare. Praesent ultrices urna ipsum, non egestas lacus consequat at. Nulla dapibus tincidunt mauris, quis venenatis mi accumsan id. Curabitur mauris turpis, tristique a turpis ac, consectetur gravida dui. Quisque in consectetur tortor.\n\nHeader 3 - Even Smaller Text\nSuspendisse quam eros, blandit eu tempus a, consectetur eu mauris. Quisque nec commodo lorem, efficitur ullamcorper massa. Duis sed eros eu dolor faucibus ultrices. Curabitur volutpat mauris arcu, non efficitur orci elementum non. Donec aliquet molestie ultrices. Sed vitae justo a risus viverra varius. Mauris id ex sagittis, ultrices nunc et, ultrices risus.\n\n##Some random plot I found at (https://www.w3schools.com/python/matplotlib_plotting.asp)\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nxpoints = np.array([1, 2, 6, 8])\nypoints = np.array([3, 8, 1, 10])\n\nplt.plot(xpoints, ypoints)\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chase Clemence’s Website",
+    "section": "",
+    "text": "Early Life\nEducation\nHobbies\nFuture Goals"
+  },
+  {
+    "objectID": "index.html#early-life",
+    "href": "index.html#early-life",
+    "title": "Chase Clemence’s Website",
+    "section": "Early Life",
+    "text": "Early Life\n\n\n\nLittle Me"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Chase Clemence’s Website",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\nPlace\nDescription\n\n\n\n\nGreensburg Salem School District\nSmall school in Greensburg, Pennsylvania\n\n\nUnited States Air Force Acadmey\nService Academy in Colorado Springs, Colorado"
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Chase Clemence’s Website",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nExercise (Running/Lifting/Swimming)1\nGoing to concerts\nReading"
+  },
+  {
+    "objectID": "index.html#future-goals",
+    "href": "index.html#future-goals",
+    "title": "Chase Clemence’s Website",
+    "section": "Future Goals",
+    "text": "Future Goals\n\nAir Force Career\n\n\nAfter the Air Force\n\n\nMath Equations (just because)\n\\({Mean Discrete}\\ \\mu=E(X)= \\sumP_{i}x_{i}\\) \\[{Mean Continuous}\\ \\mu=\\int xf(x) dx\\]\n\n\nCheck out this video!\n\n\n\nSome Motivation - Click the Photo!\n\n\n\n\nMermaid Diagram (example)\n\n\n\n\n\ngraph TD;\n     A--&gt;B;\n     A--&gt;C;\n     B--&gt;D;\n     C--&gt;D;\n\n\n\n\n\n\n\n\nReferences (example)\n\n(Bolyen et al. 2019)\n(Agarwal and Dhar 2014)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Chase Clemence’s Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nTraining for an Ironman!↩︎"
+  }
+]
